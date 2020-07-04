@@ -1,2 +1,4 @@
-# Telefonda_basilan_tus_frekansını-_bulma
+# Telefonda basilan tus frekansını bulma
 SAYISAL İŞARET İŞLEME 2019 2020 BAHAR DÖNEMİ 4. ÖDEVİ
+
+Karışık olarak verilen text dosyalarının  hangi frekansa ait olduğunu bulan matlab ödevidir.
